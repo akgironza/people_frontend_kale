@@ -1,0 +1,1 @@
+export const baseUrl = "https://seirkale-ag-people-backend.onrender.com"
